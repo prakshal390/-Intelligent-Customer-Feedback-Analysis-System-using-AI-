@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+textblob 
+prophet
+pyngrok
