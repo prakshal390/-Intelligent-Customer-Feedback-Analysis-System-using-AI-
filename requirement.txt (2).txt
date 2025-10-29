@@ -10,6 +10,13 @@ albucore==0.0.24
 albumentations==2.0.8
 ale-py==0.11.2
 alembic==1.17.0
+# contents of requirements.txt
+streamlit
+pandas
+nltk
+numpy
+scikit-learn
+transformers
 altair==5.5.0
 annotated-doc==0.0.3
 annotated-types==0.7.0
@@ -680,4 +687,5 @@ yfinance==0.2.66
 zict==3.0.0
 zipp==3.23.0
 zstandard==0.25.0
+
 
