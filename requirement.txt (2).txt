@@ -1,25 +1,7 @@
-# General Data Handling and Machine Learning
+# General Data Handling and Machine Learningstreamlit
 pandas
-numpy
-scikit-learn
-pickle
-
-# Natural Language Processing (NLP) and Text Analysis
 nltk
 vaderSentiment
-
-# Time Series Forecasting (from Section 4)
-# Note: Prophet requires pystan, which can be complex to install.
-# If you encounter issues, you may need to check the official
-# Prophet documentation for installation on your specific environment.
-prophet
-pystan==2.19.1.1 # often required for stable Prophet installation
-
-# Visualization
 matplotlib
 seaborn
-plotly
-
-# Streamlit and Deployment
-streamlit
-pyngrok # For creating the ngrok tunnel
+openpyxl
